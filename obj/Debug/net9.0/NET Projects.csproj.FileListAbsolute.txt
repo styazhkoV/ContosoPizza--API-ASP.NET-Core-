@@ -1,0 +1,32 @@
+/Users/alexsnow/CODE/NET Projects/bin/Debug/net9.0/appsettings.Development.json
+/Users/alexsnow/CODE/NET Projects/bin/Debug/net9.0/appsettings.json
+/Users/alexsnow/CODE/NET Projects/bin/Debug/net9.0/NET Projects.staticwebassets.endpoints.json
+/Users/alexsnow/CODE/NET Projects/bin/Debug/net9.0/NET Projects
+/Users/alexsnow/CODE/NET Projects/bin/Debug/net9.0/NET Projects.deps.json
+/Users/alexsnow/CODE/NET Projects/bin/Debug/net9.0/NET Projects.runtimeconfig.json
+/Users/alexsnow/CODE/NET Projects/bin/Debug/net9.0/NET Projects.dll
+/Users/alexsnow/CODE/NET Projects/bin/Debug/net9.0/NET Projects.pdb
+/Users/alexsnow/CODE/NET Projects/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/alexsnow/CODE/NET Projects/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/alexsnow/CODE/NET Projects/obj/Debug/net9.0/NET Projects.csproj.AssemblyReference.cache
+/Users/alexsnow/CODE/NET Projects/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/alexsnow/CODE/NET Projects/obj/Debug/net9.0/NET Projects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexsnow/CODE/NET Projects/obj/Debug/net9.0/NET Projects.AssemblyInfoInputs.cache
+/Users/alexsnow/CODE/NET Projects/obj/Debug/net9.0/NET Projects.AssemblyInfo.cs
+/Users/alexsnow/CODE/NET Projects/obj/Debug/net9.0/NET Projects.csproj.CoreCompileInputs.cache
+/Users/alexsnow/CODE/NET Projects/obj/Debug/net9.0/NET Projects.MvcApplicationPartsAssemblyInfo.cs
+/Users/alexsnow/CODE/NET Projects/obj/Debug/net9.0/NET Projects.MvcApplicationPartsAssemblyInfo.cache
+/Users/alexsnow/CODE/NET Projects/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/alexsnow/CODE/NET Projects/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/alexsnow/CODE/NET Projects/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/alexsnow/CODE/NET Projects/obj/Debug/net9.0/scopedcss/bundle/NET Projects.styles.css
+/Users/alexsnow/CODE/NET Projects/obj/Debug/net9.0/staticwebassets.build.json
+/Users/alexsnow/CODE/NET Projects/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/alexsnow/CODE/NET Projects/obj/Debug/net9.0/staticwebassets.development.json
+/Users/alexsnow/CODE/NET Projects/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/alexsnow/CODE/NET Projects/obj/Debug/net9.0/NET Proj.DFF6AE27.Up2Date
+/Users/alexsnow/CODE/NET Projects/obj/Debug/net9.0/NET Projects.dll
+/Users/alexsnow/CODE/NET Projects/obj/Debug/net9.0/refint/NET Projects.dll
+/Users/alexsnow/CODE/NET Projects/obj/Debug/net9.0/NET Projects.pdb
+/Users/alexsnow/CODE/NET Projects/obj/Debug/net9.0/NET Projects.genruntimeconfig.cache
+/Users/alexsnow/CODE/NET Projects/obj/Debug/net9.0/ref/NET Projects.dll
